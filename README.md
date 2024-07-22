@@ -17,4 +17,4 @@ Semantic HTML: Used semantic HTML elements to enhance SEO.
 Image Optimization: Optimized images with appropriate alt attributes to improve accessibility and load times.
 Deployment
 Hosting: Deployed the landing page on a hosting platform such as Vercel, Netlify, or GitHub Pages.
-Live URL: [] – Access the deployed landing page.
+Live URL: [https://github.com/SAKSHIPANGHAL/PIZZA-/tree/main] – Access the deployed landing page.
