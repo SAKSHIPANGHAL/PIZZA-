@@ -1,20 +1,30 @@
-Pizza Landing Page
-Objective
-Develop a landing page using Next.js, TailwindCSS, and the ShadCN component library. This landing page showcases skills in frontend development, design, and SEO optimization.
 
-Requirements
-Design & Layout
-Responsive Design: The landing page is designed to look great on both desktop and mobile devices.
-Styling: Utilizes TailwindCSS for styling to create a modern and clean look.
-Reusable Components: Implemented using the ShadCN component library for consistent UI elements.
-Functionality
-Smooth Scrolling: Navigation links enable smooth scrolling.
-Interactive Elements: All links and buttons are functional and lead to their respective destinations.
-Form Validation: Basic validation added for contact or subscription forms to ensure user input is correct.
-SEO Optimization
-Meta Tags: Included meta tags for title, description, and keywords to improve search engine visibility.
-Semantic HTML: Used semantic HTML elements to enhance SEO.
-Image Optimization: Optimized images with appropriate alt attributes to improve accessibility and load times.
-Deployment
-Hosting: Deployed the landing page on a hosting platform such as Vercel, Netlify, or GitHub Pages.
-Live URL: [https://github.com/SAKSHIPANGHAL/PIZZA-/tree/main] – Access the deployed landing page.
+This is a Next.js project bootstrapped with create-next-app.
+
+Getting Started
+First, run the development server:
+
+npm run dev
+# or
+yarn dev
+# or
+pnpm dev
+# or
+bun dev
+Open http://localhost:3000 with your browser to see the result.
+
+You can start editing the page by modifying app/page.tsx. The page auto-updates as you edit the file.
+
+This project uses next/font to automatically optimize and load Inter, a custom Google Font.
+
+Learn More
+To learn more about Next.js, take a look at the following resources:
+
+Next.js Documentation - learn about Next.js features and API.
+Learn Next.js - an interactive Next.js tutorial.
+You can check out the Next.js GitHub repository - your feedback and contributions are welcome!
+
+Deploy on Vercel
+The easiest way to deploy your Next.js app is to use the Vercel Platform from the creators of Next.js.
+
+Check out our Next.js deployment documentation for more details.
